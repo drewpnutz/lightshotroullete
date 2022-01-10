@@ -3,4 +3,4 @@
 #100 pts for real PII.\
 #75 pts for random WTF.\
 #50 pts for lewds.\
-#25 pts for crypto scam.\
+#25 pts for crypto scam.
