@@ -11,7 +11,7 @@
 
 ```npm lightshotroullete.js```
 
-### open browser
+#open browser your browser and enter http://127.0.0.1 and refresh for fun!\
 
 
 ## lightshotroullete.py
