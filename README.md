@@ -7,8 +7,7 @@
 
 ## lightshotroullete.js
 
-```npm -i express express-sesion uuidrequest cheerio compression node-fetch@2 node-fetch```\r
-\n```npm lightshotroullete.js```
+```npm -i express express-sesion uuidrequest cheerio compression node-fetch@2 node-fetch<br/>npm lightshotroullete.js```
 
 #open browser your browser and enter http://127.0.0.1 and refresh for fun!
 
