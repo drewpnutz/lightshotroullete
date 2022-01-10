@@ -7,12 +7,10 @@
 
 ## lightshotroullete.js
 
-```npm -i express express-sesion uuidrequest cheerio compression node-fetch@2 node-fetch```\r\n
-```npm lightshotroullete.js```
+```npm -i express express-sesion uuidrequest cheerio compression node-fetch@2 node-fetch```\r
+\n```npm lightshotroullete.js```
 
-#open browser your browser and enter http://127.0.0.1 and refresh for fun!\
-
-
+#open browser your browser and enter http://127.0.0.1 and refresh for fun!
 
 ## lightshotroullete.py
 
@@ -20,7 +18,7 @@
 ```PS C:\Users\drew\Documents\scripts\lightshotroulette> py .\lightshotroulette.py\```
 ```https://prnt.sc/574lxx```
 
-#copy/paste url into browser and have fun!\
+#copy/paste url into browser and have fun!
 
 
 
