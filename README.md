@@ -7,20 +7,18 @@
 
 ## lightshotroullete.js
 
-```npm -i express express-sesion uuidrequest cheerio compression node-fetch@2 node-fetch\
-npm lightshotroullete.js```
+```npm -i express express-sesion uuidrequest cheerio compression node-fetch@2 node-fetch```
+
+```npm lightshotroullete.js```
 
 ### open browser
-
-
-
 
 
 ## lightshotroullete.py
 
 
-```PS C:\Users\drew\Documents\scripts\lightshotroulette> py .\lightshotroulette.py\
-https://prnt.sc/574lxx```
+```PS C:\Users\drew\Documents\scripts\lightshotroulette> py .\lightshotroulette.py\```
+```https://prnt.sc/574lxx```
 
 
 
